@@ -18,8 +18,8 @@ CV team project (A+)
 <p/>
 <img width="458" alt="스크린샷 2024-11-02 오후 1 32 26" src="https://github.com/user-attachments/assets/215b7a59-5345-44f7-8224-07073eab67a6">
 <p/>
-* Geometric Transformation: Movement, Size, Rotation, Symmetry Transformation
-* -> Apply vertical and horizontal flip (left and right inversion, upper and lower inversion), rotate 
+- [ ] Geometric Transformation: Movement, Size, Rotation, Symmetry Transformation
+- [ ] -> Apply vertical and horizontal flip (left and right inversion, upper and lower inversion), rotate 
 * Visual Corruptions: 
 - Images are exposed to various environmental noises, and images with noise affect model performance.
 - We want to increase the robustness of our model by using visual corruption, which is a disturbance such as noise and blur.
