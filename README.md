@@ -54,6 +54,7 @@ CV team project (A+)
 
 ### Model
 **Efficientnet b0 model**
+<p/>
 <img width="458" alt="스크린샷 2024-11-02 오후 1 45 30" src="https://github.com/user-attachments/assets/b8d58c02-28a7-488c-8e95-fdbcea4ec7e4">
 <p/>
 - There are three ways to improve performance: "Compound Scaling",
