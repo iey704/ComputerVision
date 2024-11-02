@@ -64,10 +64,11 @@ CV team project (A+)
 - EfficientNet is a model that can find the best combination for three methods, using all three scaling, performing well with less FLOPS (calculated amount) than conventional models.
 
 ### Final Result
-[FINAL] Test Loss: 0.3447,Accuracy: 94.6309%
-Best Accuracy:  94.5945945945946
-Elapsed Time: 2h, 12m, 26s
-time: 2h, 12m, 26s
+[FINAL] 
+- [ ]Test Loss: 0.3447,Accuracy: 94.6309%
+- [ ]Best Accuracy:  94.5945945945946
+- [ ]Elapsed Time: 2h, 12m, 26s
+- [ ]time: 2h, 12m, 26s
 
 <img width="458" alt="스크린샷 2024-11-02 오후 1 47 29" src="https://github.com/user-attachments/assets/cebf9a7f-0f82-4eff-a645-8aab7efdaea3">
 <img width="458" alt="스크린샷 2024-11-02 오후 1 47 48" src="https://github.com/user-attachments/assets/85d7c616-94e3-48f6-8d12-c61fa5bf4363">
