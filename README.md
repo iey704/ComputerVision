@@ -64,10 +64,10 @@ CV team project (A+)
 <p/>
   
 * There are three ways to improve performance: "Compound Scaling",
-
-1. Increase the depth of the network (increase the number of layers)
-2. Increase channel width (increase the number of filters)
-3. Increase the resolution of the input image
+  
+  1. Increase the depth of the network (increase the number of layers)
+  2. Increase channel width (increase the number of filters)
+  3. Increase the resolution of the input image
    
 * EfficientNet is a model that can find the best combination for three methods, using all three scaling, performing well with less FLOPS (calculated amount) than conventional models.
 
