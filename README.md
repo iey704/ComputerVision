@@ -15,6 +15,7 @@ CV team project (A+)
 
 ### Experiments
 **1. Augmentation - Geometric Transformation + Visual Corruptions)**
+<p/>
 <img width="458" alt="스크린샷 2024-11-02 오후 1 32 26" src="https://github.com/user-attachments/assets/215b7a59-5345-44f7-8224-07073eab67a6">
 <p/>
 - Geometric Transformation: Movement, Size, Rotation, Symmetry Transformation
@@ -28,6 +29,7 @@ CV team project (A+)
 - an optimizer that inhibits excessive weight norm growth by eliminating gradient components parallel to the weight direction caused by momentum through projection.
   
 **3. Hyperparameter(BATCH_SIZE, EPOCH, lr):**
+<p/>
 <img width="458" alt="스크린샷 2024-11-02 오후 1 39 00" src="https://github.com/user-attachments/assets/6e44c850-8470-4ce7-afd3-cf9cafcf095c">
 <p/>
 - The smaller the batch size, the better the performance
@@ -35,7 +37,7 @@ CV team project (A+)
 - The lower the learning rate, the better the performance
 
 **4. Scheduler: get_cosine_schedule_with_warmup**
-
+<p/>
 <img width="458" alt="스크린샷 2024-11-02 오후 1 39 08" src="https://github.com/user-attachments/assets/f9ea311a-7232-437a-8af1-0221e23a0401">
 <p/>
 - After a warm-up period that increases linearly by the specified value (three times the train_loader) 
@@ -43,7 +45,9 @@ CV team project (A+)
 -> This allows you to get out of saddle point quickly.
 -> Congestion segments that occur in the middle of learning can also be quickly removed
 -> Maximize model generalization performance
+  
 **5.Label Smoothing**
+  <p/>
 <img width="458" alt="image" src="https://github.com/user-attachments/assets/49905389-23a0-40b1-a79a-882336621e1e">
   <p/>
 - A method to reduce overconfidence in deep learning predictions by softening Hard label (which consists of 1 correct answer index with one-hot encoded vector and 0 for the rest).
