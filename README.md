@@ -1,6 +1,9 @@
 # ComputerVision
 CV team project (A+)
 
+### Period:
+* 2023.10.10 ~ 2023.11.20
+
 ### Problem Description
 <img width="422" alt="image" src="https://github.com/iey704/ComputerVision/assets/105503671/67623a8b-078f-4d94-9e43-052df9c2197a">
 
